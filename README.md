@@ -5,6 +5,7 @@
 >   
 > Học viên cao học: NGUYỄN XUÂN HIỀN  
 > Mã số học viên: 2470749  
+> Bộ môn: CƠ SỞ TOÁN
 ---
 ### Danh mục báo cáo 
 - Báo cáo chuyên đề: "LÝ THUYẾT XÁC SUẤT VÀ THỐNG KÊ DÀNH CHO MÁY HỌC"
